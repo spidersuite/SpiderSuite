@@ -11,7 +11,7 @@ body:
 
 
       That said **please do a quick search of the existing issues first** at
-      https://github.com/3nock/SpiderSuite/issues. Somebody may have reported this already, and if
+      https://github.com/SpiderSuite/SpiderSuite/issues. Somebody may have reported this already, and if
       you're lucky they might even have shared a solution already, so you can workaround your issue
       right away.
 
@@ -57,7 +57,7 @@ body:
       If the issue involves another device or application, please share the details of those:
     placeholder: |
       For example:
-      - Crawling https://google.com
+      - Crawling https://crawler-test.com/
 - type: textarea
   attributes:
     label: Error screenshot
