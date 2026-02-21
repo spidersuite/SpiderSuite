@@ -1,6 +1,6 @@
 name: "Feature Request"
 description: "Suggest an idea for this project"
-title: "[Feature Request]: "
+title: "[Feature]: "
 labels: ["Feature"]
 body:
 - type: markdown
@@ -9,10 +9,8 @@ body:
       Thanks for taking the time to think of and suggest a new feature! Your suggestion is a really important part of
       maintaining and improving Spider Suite.
 
-
       That said **please do a quick search of the existing issues first** at
-      https://github.com/SpiderSuite/SpiderSuite/issues. Somebody may have requested this already.
-
+      https://github.com/spidersuite/SpiderSuite/issues. Somebody may have requested this already.
 
       ---
 - type: textarea
